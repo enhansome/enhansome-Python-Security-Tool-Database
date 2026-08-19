@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T16:29:06Z",
             "owner": "apache",
             "repo": "caldera",
-            "stars": 7196
+            "stars": 7199
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-05-28T18:26:34Z",
             "owner": "mandiant",
             "repo": "flare-fakenet-ng",
-            "stars": 2177
+            "stars": 2180
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-17T12:44:07Z",
             "owner": "splunk",
             "repo": "attack_data",
-            "stars": 802
+            "stars": 803
           }
         }
       ],
@@ -95,7 +95,7 @@
             "last_commit": "2026-01-12T08:00:47Z",
             "owner": "Neo23x0",
             "repo": "Loki",
-            "stars": 3776
+            "stars": 3777
           }
         },
         {
@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:47:12Z",
+            "last_commit": "2026-08-18T21:07:28Z",
             "owner": "kevoreilly",
             "repo": "CAPEv2",
-            "stars": 3432
+            "stars": 3433
           }
         },
         {
@@ -196,10 +196,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T05:18:30Z",
+            "last_commit": "2026-08-18T05:34:09Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 89717
+            "stars": 89772
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21159
+            "stars": 21183
           }
         },
         {
@@ -224,10 +224,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:10:55Z",
+            "last_commit": "2026-08-18T16:58:35Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17093
+            "stars": 17106
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2025-08-25T12:00:48Z",
             "owner": "Datalux",
             "repo": "Osintgram",
-            "stars": 14025
+            "stars": 14033
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2024-09-10T20:24:32Z",
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 13466
+            "stars": 13614
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7680
+            "stars": 7720
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5856
+            "stars": 5859
           }
         },
         {
@@ -294,7 +294,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:01:40Z",
+            "last_commit": "2026-08-18T07:06:12Z",
             "owner": "intelowlproject",
             "repo": "IntelOwl",
             "stars": 4673
@@ -311,7 +311,7 @@
             "last_commit": "2024-07-13T06:27:10Z",
             "owner": "AzizKpln",
             "repo": "Moriarty-Project",
-            "stars": 2068
+            "stars": 2069
           }
         },
         {
@@ -376,10 +376,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T23:49:03Z",
+            "last_commit": "2026-08-18T21:30:37Z",
             "owner": "networkx",
             "repo": "networkx",
-            "stars": 17201
+            "stars": 17204
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-08-14T19:48:00Z",
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16005
+            "stars": 16011
           }
         },
         {
@@ -404,10 +404,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T22:10:06Z",
+            "last_commit": "2026-08-18T17:11:17Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12474
+            "stars": 12477
           }
         }
       ],
@@ -424,10 +424,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:20:46Z",
+            "last_commit": "2026-08-18T12:50:42Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38203
+            "stars": 38215
           }
         },
         {
@@ -475,7 +475,7 @@
             "last_commit": "2026-06-04T21:23:34Z",
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15203
+            "stars": 15205
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-04T09:42:12Z",
             "owner": "CrimsonForge-io",
             "repo": "king-phisher",
-            "stars": 2575
+            "stars": 2576
           }
         }
       ],
@@ -509,7 +509,7 @@
             "last_commit": "2026-08-04T03:25:32Z",
             "owner": "PyCQA",
             "repo": "bandit",
-            "stars": 8221
+            "stars": 8223
           }
         },
         {
@@ -523,7 +523,7 @@
             "last_commit": "2026-07-24T15:40:41Z",
             "owner": "infobyte",
             "repo": "faraday",
-            "stars": 6689
+            "stars": 6690
           }
         },
         {
@@ -557,7 +557,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19811
+            "stars": 19812
           }
         },
         {
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:05:45.366Z",
+    "last_updated": "2026-08-19T03:07:28.010Z",
     "original_repository": "MythicStack/Python-Security-Tool-Database",
     "original_repository_sha": "34f820c5479e927304c241e5e7f8b49c8beb5fa6",
     "enhanced_repository": "enhansome/enhansome-Python-Security-Tool-Database",
