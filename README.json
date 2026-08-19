@@ -2,585 +2,626 @@
   "items": [
     {
       "description": "I didn't really find a good Python toolkit online and I just want to make something people will use so if you have input, talk to me on BlueSky! https://bsky.app/profile/mythicstack.com\nIf you think a project should be included here I really want to know, but keep in mind that this isn't supposed to be a dictionary. I want to keep the best, covering as many bases as possible while minimizing overlap.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Caldera",
+              "description": "Mitre's adversary emulation tool. It's not entirely python, but it's mostly python and so sick that it has to be included here.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112409981,
+                "language": "Python",
+                "last_commit": "2026-08-12T16:29:06Z",
+                "owner": "apache",
+                "repo": "caldera",
+                "stars": 7202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Infection Monkey",
+              "description": "Attack simulation tool with self-propagation functionality and a web portal that provides mini security write-ups after attack is complete. Several exploits to chose from + it's a very clean tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41620215,
+                "language": "Python",
+                "last_commit": "2025-05-01T13:34:05Z",
+                "owner": "guardicore",
+                "repo": "monkey",
+                "stars": 7073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FakeNet-NG",
+              "description": "Simulate legitimate network services while redirecting specified traffic. This is also an older project that is no longer maintained, but I could not find something that provided the same functionality and this still works.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62087069,
+                "language": "Python",
+                "last_commit": "2026-05-28T18:26:34Z",
+                "owner": "mandiant",
+                "repo": "flare-fakenet-ng",
+                "stars": 2180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DumpsterFire",
+              "description": "Old, on Python2, and no longer maintained. That being said, it's got a lot of reference material if you're interested. I messed around with it for an hour or two and all the modules I played with worked without too much finagling (No clue about the OSX stuff though, let me know).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105951361,
+                "language": "Python",
+                "last_commit": "2020-05-27T15:00:56Z",
+                "owner": "TryCatchHCF",
+                "repo": "DumpsterFire",
+                "stars": 1038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Splunk Attack Data",
+              "description": "Allows you to replay attacks generated from logs, lots of datasets to chose from have already been included in the repo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281495346,
+                "language": "Python",
+                "last_commit": "2026-08-17T12:44:07Z",
+                "owner": "splunk",
+                "repo": "attack_data",
+                "stars": 804
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Adversary Simulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Loki (IOC Scanner)",
+              "description": "Loki is an absolutely sick IOC scanner. Supports: hashes, yara, filenames, and C2 IOCs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29420337,
+                "language": "Python",
+                "last_commit": "2026-01-12T08:00:47Z",
+                "owner": "Neo23x0",
+                "repo": "Loki",
+                "stars": 3777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Malware CAPE",
+              "description": "This is the Malware Configuration and Payload Extractor, hence the name CAPE. It's phenomenal and there's an online instance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215366713,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:55:52Z",
+                "owner": "kevoreilly",
+                "repo": "CAPEv2",
+                "stars": 3434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSSEM",
+              "description": "This is the Open Source Security Events Metadata. Weird name, but great idea. Event log analysis + documentation + standardized framework = win in my book. I'm not a DFIR expert, so can't say for sure how useful this is in a corportate setting, but I appreciate what's going on here.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123052690,
+                "language": "Python",
+                "last_commit": "2023-02-27T02:58:11Z",
+                "owner": "OTRF",
+                "repo": "OSSEM",
+                "stars": 1299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cuckoo Modified(+Sandbox)",
+              "description": "This is deprecated, but the one I'm familiar with. Never used the new one, but it's here. This is a really excellent automated malware analyzer, highly recommend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47121883,
+                "language": "Python",
+                "last_commit": "2017-11-21T14:35:34Z",
+                "owner": "spender-sandbox",
+                "repo": "cuckoo-modified",
+                "stars": 406
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cold Disk, Quick Response",
+              "description": "CDQR is a disk parser and artifact collector. Their readme explains all. This is one of the few on my list that I've never personally used. I also couldn't easily set up a situation in order to use it effectively to test it, but it's been in a bunch of DFIR kits I've been around so I feel comfortable including it here.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49660976,
+                "language": "Python",
+                "last_commit": "2022-06-25T16:20:38Z",
+                "owner": "orlikoski",
+                "repo": "CDQR",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Margarita Shotgun",
+              "description": "First, how great is that name?! Second, this is the best Python based live memory acquisition tool. Done and dusted. It's a bit old, but still kicking.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65315497,
+                "language": "Python",
+                "last_commit": "2020-09-22T15:58:11Z",
+                "owner": "ThreatResponse",
+                "repo": "margaritashotgun",
+                "stars": 253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image Mounter",
+              "description": "CLI mounting tool for virtual and non-virtual images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16476185,
+                "language": "Python",
+                "last_commit": "2023-02-09T15:49:13Z",
+                "owner": "ralphje",
+                "repo": "imagemounter",
+                "stars": 127
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Digital Forensics and Incident Response (DFIR)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sherlock",
+              "description": "Best broad social media hunter I've used by far. So simple a caveman could do it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162998479,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:34:57Z",
+                "owner": "sherlock-project",
+                "repo": "sherlock",
+                "stars": 89798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpiderFoot",
+              "description": "Easily the coolest OSINT tool on the list, it would be first if I wasn't trying to keep this thing alphabetical. Its perks are too numerous to outline here, go to their page.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4165675,
+                "language": "Python",
+                "last_commit": "2026-04-13T19:43:06Z",
+                "owner": "smicallef",
+                "repo": "spiderfoot",
+                "stars": 21192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theHarvester",
+              "description": "Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1212922,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:58:35Z",
+                "owner": "laramies",
+                "repo": "theHarvester",
+                "stars": 17112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Osintgram",
+              "description": "Instagram is a wealth of data for those that look, it's maintained by a lot of folks, but Instagram changes may break functionality. It's a well organized project and lots of forks to take a look at.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190823163,
+                "language": "Python",
+                "last_commit": "2025-08-25T12:00:48Z",
+                "owner": "Datalux",
+                "repo": "Osintgram",
+                "stars": 14039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "holehe",
+              "description": "Simple mail checker for popular websites. Clean and to the point, updated by megadose as needed. They also have a lot of other interesting projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275031765,
+                "language": "Python",
+                "last_commit": "2024-09-10T20:24:32Z",
+                "owner": "megadose",
+                "repo": "holehe",
+                "stars": 13671
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BlackBird",
+              "description": "Another OSINT tool! I seem to have a favorite category at this point.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 489384246,
+                "language": "Python",
+                "last_commit": "2025-07-13T13:48:19Z",
+                "owner": "p1ngul1n0",
+                "repo": "blackbird",
+                "stars": 7731
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Recon-ng",
+              "description": "The OSINT equivalent to the Metasploit Framework. Could be updated more often, but it's well respected and there's decades of content on the internet to help you get familiar with it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178254323,
+                "language": "Python",
+                "last_commit": "2024-11-01T20:11:51Z",
+                "owner": "lanmaster53",
+                "repo": "recon-ng",
+                "stars": 5859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IntelOwl",
+              "description": "It's a cool malware/malspam threat intel tool. It's mostly Python, but it's pretty JS heavy. I've used it and my thoughts on it are: \"Clean/Functional/Well Documented, but it smells like a corporate project.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231109256,
+                "language": "Python",
+                "last_commit": "2026-08-18T07:06:12Z",
+                "owner": "intelowlproject",
+                "repo": "IntelOwl",
+                "stars": 4675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moriarty Project",
+              "description": "Checks for provided phone number on popular websites, performs searches, and provides ownership information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262434885,
+                "language": "Python",
+                "last_commit": "2024-07-13T06:27:10Z",
+                "owner": "AzizKpln",
+                "repo": "Moriarty-Project",
+                "stars": 2069
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anubis",
+              "description": "Subdomain enumerator actively maintained by jonluca. It's a good tool and it works well. Has the added benefit of having a nice README with clear examples. Every issue (at the time of writing) has been resolved. The dude has some pretty cool projects on his blog too.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113704915,
+                "language": "Python",
+                "last_commit": "2026-08-03T10:35:40Z",
+                "owner": "jonluca",
+                "repo": "anubis",
+                "stars": 1374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metagoofil",
+              "description": "This is an oldie, but a goodie from the days of Python 2. This tool helps obtain files and metadata from target websites using Google.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40654736,
+                "language": "Python",
+                "last_commit": "2024-03-21T03:45:48Z",
+                "owner": "laramies",
+                "repo": "metagoofil",
+                "stars": 1310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DaProfiler",
+              "description": "This a person profiler and covers bases that others on this list do not. It's fairly in-depth, updated regularly, and has a clean UI. Easy to use and works well, some false positives.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 380501499,
+                "language": "Python",
+                "last_commit": "2023-09-27T18:05:53Z",
+                "owner": "daprofiler",
+                "repo": "DaProfiler",
+                "stars": 1038
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Information Gathering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NetworkX",
+              "description": "Incredibly thourough network mapping and analysis tool for small and large networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 890377,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:30:37Z",
+                "owner": "networkx",
+                "repo": "networkx",
+                "stars": 17207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Impacket",
+              "description": "Impacket is a flexible toolkit for crafting, manipulating, and analyzing network protocols. Never leave home without it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33997353,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:31:26Z",
+                "owner": "fortra",
+                "repo": "impacket",
+                "stars": 16012
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scapy",
+              "description": "Python packet manipulation tool for a really solid number of protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43509302,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:11:17Z",
+                "owner": "secdev",
+                "repo": "scapy",
+                "stars": 12477
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQL Map",
+              "description": "This thing is so cool! Really awesome set of contributors on this project, basically it's an automated detector/exploiter for SQL injection vulnerabilities. This thing kicks ass once you get the hang of it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4793392,
+                "language": "Python",
+                "last_commit": "2026-08-18T12:50:42Z",
+                "owner": "sqlmapproject",
+                "repo": "sqlmap",
+                "stars": 38223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrackMapExec",
+              "description": "CrackMapExec (CME) is a post-exploitation tool to automate the assessment of large Active Directory networks. I think there's some drama here between byt3bl33d3r and Kali, but I don't know so I'm linking primarily to the Kali one since it's maintained and byt3's is archived.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 40718289,
+                "language": "Python",
+                "last_commit": "2023-12-06T17:09:42Z",
+                "owner": "byt3bl33d3r",
+                "repo": "CrackMapExec",
+                "stars": 9156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EvilTwinFramework",
+              "description": "Python tool to help penetration testers perform evil twin attacks and some other wifi related exploits.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70102994,
+                "language": "Python",
+                "last_commit": "2024-08-01T17:30:34Z",
+                "owner": "Esser50K",
+                "repo": "EvilTwinFramework",
+                "stars": 357
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Penetration Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Social Engineering Toolkit",
+              "description": "Built by one of my favorite people @HackingDave, this Python toolkit (so it's built with more than just Python, sue me) is a modular piece of art with 15+ built in tools that work well out of the box. Plus for new folks to the tool it also has a extremely easy to digest User Manual.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7391261,
+                "language": "Python",
+                "last_commit": "2026-06-04T21:23:34Z",
+                "owner": "trustedsec",
+                "repo": "social-engineer-toolkit",
+                "stars": 15207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "King Phisher",
+              "description": "May look reduntant since the SET has a set of modules for phishing, but worry not this is definitely meant to be here. SET has a broad set of tooling in it, but King Phisher focuses on one thing and it does it really well. SMS alerts, MFA bypass, detailed email building, and a lot more are cooked into this tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15592447,
+                "language": "Python",
+                "last_commit": "2026-08-04T09:42:12Z",
+                "owner": "CrimsonForge-io",
+                "repo": "king-phisher",
+                "stars": 2576
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Social Engineering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bandit",
+              "description": "Slight change up to the rest of the tools in this list, but Bandit is still pretty useful. It's a static code analysis tool for Python scripts. Can be helpful for finding vulnerabilities in home brew applications and it's just a nice tool to have around if you're going to be building anything on your own with Python so you're not making any egregious slip ups.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131129792,
+                "language": "Python",
+                "last_commit": "2026-08-04T03:25:32Z",
+                "owner": "PyCQA",
+                "repo": "bandit",
+                "stars": 8224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Faraday",
+              "description": "Faraday is clean and I love using it, I've messed with it in my home lab a lot. Bottom line is, it's fantastic. It has a clean & intuitive web UI, tracks vulnerability history, aids in remediation efforts, and it's updated as often as you'd expect. All the damn time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14160461,
+                "language": "Python",
+                "last_commit": "2026-07-24T15:40:41Z",
+                "owner": "infobyte",
+                "repo": "faraday",
+                "stars": 6690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Raccoon",
+              "description": "Raccoon is pretty sweet, very helpful, and a must have in your toolkit. It's not super well maintained, but it's open source and works perfectly out of the box for external attack surface scanning and information gathering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133257682,
+                "language": "Python",
+                "last_commit": "2026-04-21T21:23:15Z",
+                "owner": "evyatarmeged",
+                "repo": "Raccoon",
+                "stars": 3994
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vulnerability Scanning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BetterCAP",
+              "description": "BetterCAP is a powerful, flexible, and portable tool designed for performing various types of MITM attacks against networks along with general network recon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116576783,
+                "language": "Go",
+                "last_commit": "2026-08-13T13:47:49Z",
+                "owner": "bettercap",
+                "repo": "bettercap",
+                "stars": 19816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wifite2",
+              "description": "Whatever description isn't going to do the wifite rewrite any justice. WEP, WPS, and WPA/2 attacks galore. Must have if you're doing anything with wireless access points. I don't use any other Python tooling for wireless stuff, that's probably because I don't do much with wireless stuff in the first place so let me know what I missed!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36545885,
+                "language": "Python",
+                "last_commit": "2026-08-05T17:30:50Z",
+                "owner": "derv82",
+                "repo": "wifite2",
+                "stars": 8064
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wireless Security"
+        }
+      ],
       "title": "Synopsis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Caldera",
-          "description": "Mitre's adversary emulation tool. It's not entirely python, but it's mostly python and so sick that it has to be included here.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T16:29:06Z",
-            "owner": "apache",
-            "repo": "caldera",
-            "stars": 7199
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Infection Monkey",
-          "description": "Attack simulation tool with self-propagation functionality and a web portal that provides mini security write-ups after attack is complete. Several exploits to chose from + it's a very clean tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-01T13:34:05Z",
-            "owner": "guardicore",
-            "repo": "monkey",
-            "stars": 7072
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FakeNet-NG",
-          "description": "Simulate legitimate network services while redirecting specified traffic. This is also an older project that is no longer maintained, but I could not find something that provided the same functionality and this still works.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-28T18:26:34Z",
-            "owner": "mandiant",
-            "repo": "flare-fakenet-ng",
-            "stars": 2180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DumpsterFire",
-          "description": "Old, on Python2, and no longer maintained. That being said, it's got a lot of reference material if you're interested. I messed around with it for an hour or two and all the modules I played with worked without too much finagling (No clue about the OSX stuff though, let me know).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-05-27T15:00:56Z",
-            "owner": "TryCatchHCF",
-            "repo": "DumpsterFire",
-            "stars": 1038
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Splunk Attack Data",
-          "description": "Allows you to replay attacks generated from logs, lots of datasets to chose from have already been included in the repo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T12:44:07Z",
-            "owner": "splunk",
-            "repo": "attack_data",
-            "stars": 803
-          }
-        }
-      ],
-      "title": "Adversary Simulation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Loki (IOC Scanner)",
-          "description": "Loki is an absolutely sick IOC scanner. Supports: hashes, yara, filenames, and C2 IOCs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-12T08:00:47Z",
-            "owner": "Neo23x0",
-            "repo": "Loki",
-            "stars": 3777
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Malware CAPE",
-          "description": "This is the Malware Configuration and Payload Extractor, hence the name CAPE. It's phenomenal and there's an online instance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T21:07:28Z",
-            "owner": "kevoreilly",
-            "repo": "CAPEv2",
-            "stars": 3433
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OSSEM",
-          "description": "This is the Open Source Security Events Metadata. Weird name, but great idea. Event log analysis + documentation + standardized framework = win in my book. I'm not a DFIR expert, so can't say for sure how useful this is in a corportate setting, but I appreciate what's going on here.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-27T02:58:11Z",
-            "owner": "OTRF",
-            "repo": "OSSEM",
-            "stars": 1299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cuckoo Modified(+Sandbox)",
-          "description": "This is deprecated, but the one I'm familiar with. Never used the new one, but it's here. This is a really excellent automated malware analyzer, highly recommend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-11-21T14:35:34Z",
-            "owner": "spender-sandbox",
-            "repo": "cuckoo-modified",
-            "stars": 406
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cold Disk, Quick Response",
-          "description": "CDQR is a disk parser and artifact collector. Their readme explains all. This is one of the few on my list that I've never personally used. I also couldn't easily set up a situation in order to use it effectively to test it, but it's been in a bunch of DFIR kits I've been around so I feel comfortable including it here.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-25T16:20:38Z",
-            "owner": "orlikoski",
-            "repo": "CDQR",
-            "stars": 345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Margarita Shotgun",
-          "description": "First, how great is that name?! Second, this is the best Python based live memory acquisition tool. Done and dusted. It's a bit old, but still kicking.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-22T15:58:11Z",
-            "owner": "ThreatResponse",
-            "repo": "margaritashotgun",
-            "stars": 253
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Image Mounter",
-          "description": "CLI mounting tool for virtual and non-virtual images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-09T15:49:13Z",
-            "owner": "ralphje",
-            "repo": "imagemounter",
-            "stars": 127
-          }
-        }
-      ],
-      "title": "Digital Forensics and Incident Response (DFIR)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "sherlock",
-          "description": "Best broad social media hunter I've used by far. So simple a caveman could do it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:34:09Z",
-            "owner": "sherlock-project",
-            "repo": "sherlock",
-            "stars": 89772
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpiderFoot",
-          "description": "Easily the coolest OSINT tool on the list, it would be first if I wasn't trying to keep this thing alphabetical. Its perks are too numerous to outline here, go to their page.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-13T19:43:06Z",
-            "owner": "smicallef",
-            "repo": "spiderfoot",
-            "stars": 21183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theHarvester",
-          "description": "Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:35Z",
-            "owner": "laramies",
-            "repo": "theHarvester",
-            "stars": 17106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Osintgram",
-          "description": "Instagram is a wealth of data for those that look, it's maintained by a lot of folks, but Instagram changes may break functionality. It's a well organized project and lots of forks to take a look at.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-25T12:00:48Z",
-            "owner": "Datalux",
-            "repo": "Osintgram",
-            "stars": 14033
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "holehe",
-          "description": "Simple mail checker for popular websites. Clean and to the point, updated by megadose as needed. They also have a lot of other interesting projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-10T20:24:32Z",
-            "owner": "megadose",
-            "repo": "holehe",
-            "stars": 13614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BlackBird",
-          "description": "Another OSINT tool! I seem to have a favorite category at this point.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-13T13:48:19Z",
-            "owner": "p1ngul1n0",
-            "repo": "blackbird",
-            "stars": 7720
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Recon-ng",
-          "description": "The OSINT equivalent to the Metasploit Framework. Could be updated more often, but it's well respected and there's decades of content on the internet to help you get familiar with it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-01T20:11:51Z",
-            "owner": "lanmaster53",
-            "repo": "recon-ng",
-            "stars": 5859
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IntelOwl",
-          "description": "It's a cool malware/malspam threat intel tool. It's mostly Python, but it's pretty JS heavy. I've used it and my thoughts on it are: \"Clean/Functional/Well Documented, but it smells like a corporate project.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T07:06:12Z",
-            "owner": "intelowlproject",
-            "repo": "IntelOwl",
-            "stars": 4673
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moriarty Project",
-          "description": "Checks for provided phone number on popular websites, performs searches, and provides ownership information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-13T06:27:10Z",
-            "owner": "AzizKpln",
-            "repo": "Moriarty-Project",
-            "stars": 2069
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anubis",
-          "description": "Subdomain enumerator actively maintained by jonluca. It's a good tool and it works well. Has the added benefit of having a nice README with clear examples. Every issue (at the time of writing) has been resolved. The dude has some pretty cool projects on his blog too.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T10:35:40Z",
-            "owner": "jonluca",
-            "repo": "anubis",
-            "stars": 1374
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Metagoofil",
-          "description": "This is an oldie, but a goodie from the days of Python 2. This tool helps obtain files and metadata from target websites using Google.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-21T03:45:48Z",
-            "owner": "laramies",
-            "repo": "metagoofil",
-            "stars": 1310
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DaProfiler",
-          "description": "This a person profiler and covers bases that others on this list do not. It's fairly in-depth, updated regularly, and has a clean UI. Easy to use and works well, some false positives.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-09-27T18:05:53Z",
-            "owner": "daprofiler",
-            "repo": "DaProfiler",
-            "stars": 1038
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "whoisrecon",
-          "description": "Shameless self-plug, this is a pretty useful tool I cooked up that lets you use CLI to query a WHOIS archive for historical data and find related domains from wildcard support searches of emails, organizations, and more!",
-          "children": []
-        }
-      ],
-      "title": "Information Gathering"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NetworkX",
-          "description": "Incredibly thourough network mapping and analysis tool for small and large networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T21:30:37Z",
-            "owner": "networkx",
-            "repo": "networkx",
-            "stars": 17204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Impacket",
-          "description": "Impacket is a flexible toolkit for crafting, manipulating, and analyzing network protocols. Never leave home without it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T19:48:00Z",
-            "owner": "fortra",
-            "repo": "impacket",
-            "stars": 16011
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scapy",
-          "description": "Python packet manipulation tool for a really solid number of protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:11:17Z",
-            "owner": "secdev",
-            "repo": "scapy",
-            "stars": 12477
-          }
-        }
-      ],
-      "title": "Networking"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SQL Map",
-          "description": "This thing is so cool! Really awesome set of contributors on this project, basically it's an automated detector/exploiter for SQL injection vulnerabilities. This thing kicks ass once you get the hang of it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T12:50:42Z",
-            "owner": "sqlmapproject",
-            "repo": "sqlmap",
-            "stars": 38215
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CrackMapExec",
-          "description": "CrackMapExec (CME) is a post-exploitation tool to automate the assessment of large Active Directory networks. I think there's some drama here between byt3bl33d3r and Kali, but I don't know so I'm linking primarily to the Kali one since it's maintained and byt3's is archived.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-12-06T17:09:42Z",
-            "owner": "byt3bl33d3r",
-            "repo": "CrackMapExec",
-            "stars": 9157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EvilTwinFramework",
-          "description": "Python tool to help penetration testers perform evil twin attacks and some other wifi related exploits.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-01T17:30:34Z",
-            "owner": "Esser50K",
-            "repo": "EvilTwinFramework",
-            "stars": 357
-          }
-        }
-      ],
-      "title": "Penetration Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Social Engineering Toolkit",
-          "description": "Built by one of my favorite people @HackingDave, this Python toolkit (so it's built with more than just Python, sue me) is a modular piece of art with 15+ built in tools that work well out of the box. Plus for new folks to the tool it also has a extremely easy to digest User Manual.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-04T21:23:34Z",
-            "owner": "trustedsec",
-            "repo": "social-engineer-toolkit",
-            "stars": 15205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "King Phisher",
-          "description": "May look reduntant since the SET has a set of modules for phishing, but worry not this is definitely meant to be here. SET has a broad set of tooling in it, but King Phisher focuses on one thing and it does it really well. SMS alerts, MFA bypass, detailed email building, and a lot more are cooked into this tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T09:42:12Z",
-            "owner": "CrimsonForge-io",
-            "repo": "king-phisher",
-            "stars": 2576
-          }
-        }
-      ],
-      "title": "Social Engineering"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bandit",
-          "description": "Slight change up to the rest of the tools in this list, but Bandit is still pretty useful. It's a static code analysis tool for Python scripts. Can be helpful for finding vulnerabilities in home brew applications and it's just a nice tool to have around if you're going to be building anything on your own with Python so you're not making any egregious slip ups.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T03:25:32Z",
-            "owner": "PyCQA",
-            "repo": "bandit",
-            "stars": 8223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Faraday",
-          "description": "Faraday is clean and I love using it, I've messed with it in my home lab a lot. Bottom line is, it's fantastic. It has a clean & intuitive web UI, tracks vulnerability history, aids in remediation efforts, and it's updated as often as you'd expect. All the damn time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T15:40:41Z",
-            "owner": "infobyte",
-            "repo": "faraday",
-            "stars": 6690
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Raccoon",
-          "description": "Raccoon is pretty sweet, very helpful, and a must have in your toolkit. It's not super well maintained, but it's open source and works perfectly out of the box for external attack surface scanning and information gathering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-21T21:23:15Z",
-            "owner": "evyatarmeged",
-            "repo": "Raccoon",
-            "stars": 3993
-          }
-        }
-      ],
-      "title": "Vulnerability Scanning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BetterCAP",
-          "description": "BetterCAP is a powerful, flexible, and portable tool designed for performing various types of MITM attacks against networks along with general network recon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T13:47:49Z",
-            "owner": "bettercap",
-            "repo": "bettercap",
-            "stars": 19812
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wifite2",
-          "description": "Whatever description isn't going to do the wifite rewrite any justice. WEP, WPS, and WPA/2 attacks galore. Must have if you're doing anything with wireless access points. I don't use any other Python tooling for wireless stuff, that's probably because I don't do much with wireless stuff in the first place so let me know what I missed!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T17:30:50Z",
-            "owner": "derv82",
-            "repo": "wifite2",
-            "stars": 8063
-          }
-        }
-      ],
-      "title": "Wireless Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:07:28.010Z",
+    "last_updated": "2026-08-19T12:11:29.940Z",
     "original_repository": "MythicStack/Python-Security-Tool-Database",
+    "original_repository_id": 521093431,
     "original_repository_sha": "34f820c5479e927304c241e5e7f8b49c8beb5fa6",
     "enhanced_repository": "enhansome/enhansome-Python-Security-Tool-Database",
     "enhanced_repository_description": null,
