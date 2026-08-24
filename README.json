@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Metasploit",
+              "description": "Alright so this thing isn't even close to being mostly Python, but cmon it's Metasploit. This has to be in here because I love this thing so much. This makes my life easier every single day.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2293158,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T14:39:59Z",
+                "owner": "rapid7",
+                "repo": "metasploit-framework",
+                "stars": 38861
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Not Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Caldera",
               "description": "Mitre's adversary emulation tool. It's not entirely python, but it's mostly python and so sick that it has to be included here.",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-08-12T16:29:06Z",
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7211
+                "stars": 7210
               }
             },
             {
@@ -32,7 +54,7 @@
                 "last_commit": "2025-05-01T13:34:05Z",
                 "owner": "guardicore",
                 "repo": "monkey",
-                "stars": 7076
+                "stars": 7075
               }
             },
             {
@@ -99,7 +121,7 @@
                 "last_commit": "2026-01-12T08:00:47Z",
                 "owner": "Neo23x0",
                 "repo": "Loki",
-                "stars": 3782
+                "stars": 3783
               }
             },
             {
@@ -114,7 +136,7 @@
                 "last_commit": "2026-08-23T09:43:49Z",
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
-                "stars": 3441
+                "stars": 3442
               }
             },
             {
@@ -208,10 +230,10 @@
                 "archived": false,
                 "id": 162998479,
                 "language": "Python",
-                "last_commit": "2026-08-23T05:13:14Z",
+                "last_commit": "2026-08-24T05:19:36Z",
                 "owner": "sherlock-project",
                 "repo": "sherlock",
-                "stars": 90097
+                "stars": 90158
               }
             },
             {
@@ -226,7 +248,7 @@
                 "last_commit": "2026-04-13T19:43:06Z",
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 21377
+                "stars": 21389
               }
             },
             {
@@ -241,22 +263,7 @@
                 "last_commit": "2026-08-24T02:20:49Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17176
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Osintgram",
-              "description": "Instagram is a wealth of data for those that look, it's maintained by a lot of folks, but Instagram changes may break functionality. It's a well organized project and lots of forks to take a look at.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 190823163,
-                "language": "Python",
-                "last_commit": "2025-08-25T12:00:48Z",
-                "owner": "Datalux",
-                "repo": "Osintgram",
-                "stars": 14097
+                "stars": 17180
               }
             },
             {
@@ -271,7 +278,22 @@
                 "last_commit": "2024-09-10T20:24:32Z",
                 "owner": "megadose",
                 "repo": "holehe",
-                "stars": 14078
+                "stars": 14119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Osintgram",
+              "description": "Instagram is a wealth of data for those that look, it's maintained by a lot of folks, but Instagram changes may break functionality. It's a well organized project and lots of forks to take a look at.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190823163,
+                "language": "Python",
+                "last_commit": "2025-08-25T12:00:48Z",
+                "owner": "Datalux",
+                "repo": "Osintgram",
+                "stars": 14107
               }
             },
             {
@@ -286,7 +308,7 @@
                 "last_commit": "2025-07-13T13:48:19Z",
                 "owner": "p1ngul1n0",
                 "repo": "blackbird",
-                "stars": 7823
+                "stars": 7831
               }
             },
             {
@@ -313,10 +335,10 @@
                 "archived": false,
                 "id": 231109256,
                 "language": "Python",
-                "last_commit": "2026-08-20T05:41:26Z",
+                "last_commit": "2026-08-24T06:44:05Z",
                 "owner": "intelowlproject",
                 "repo": "IntelOwl",
-                "stars": 4680
+                "stars": 4681
               }
             },
             {
@@ -376,7 +398,7 @@
                 "last_commit": "2023-09-27T18:05:53Z",
                 "owner": "daprofiler",
                 "repo": "DaProfiler",
-                "stars": 1039
+                "stars": 1040
               }
             }
           ],
@@ -398,7 +420,7 @@
                 "last_commit": "2026-08-21T21:18:06Z",
                 "owner": "networkx",
                 "repo": "networkx",
-                "stars": 17217
+                "stars": 17218
               }
             },
             {
@@ -413,7 +435,7 @@
                 "last_commit": "2026-08-19T12:52:39Z",
                 "owner": "fortra",
                 "repo": "impacket",
-                "stars": 16028
+                "stars": 16029
               }
             },
             {
@@ -440,6 +462,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Patator",
+              "description": "All in one brute forcer. This is built as an alternative to Hydra (near and dear to me, but definitely not Python anymore, mostly C) and some other tooling built into Kali by default. It's a sick multi-threaded application that's super flexible and inclusive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23297444,
+                "language": "Python",
+                "last_commit": "2025-05-20T00:07:33Z",
+                "owner": "lanjelot",
+                "repo": "patator",
+                "stars": 3921
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Password Cracking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SQL Map",
               "description": "This thing is so cool! Really awesome set of contributors on this project, basically it's an automated detector/exploiter for SQL injection vulnerabilities. This thing kicks ass once you get the hang of it.",
               "children": [],
@@ -450,7 +494,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38250
+                "stars": 38255
               }
             },
             {
@@ -502,7 +546,7 @@
                 "last_commit": "2026-06-04T21:23:34Z",
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15226
+                "stars": 15227
               }
             },
             {
@@ -536,10 +580,10 @@
                 "archived": false,
                 "id": 131129792,
                 "language": "Python",
-                "last_commit": "2026-08-04T03:25:32Z",
+                "last_commit": "2026-08-24T11:13:47Z",
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8235
+                "stars": 8236
               }
             },
             {
@@ -554,7 +598,7 @@
                 "last_commit": "2026-08-20T14:02:24Z",
                 "owner": "infobyte",
                 "repo": "faraday",
-                "stars": 6693
+                "stars": 6692
               }
             },
             {
@@ -569,7 +613,7 @@
                 "last_commit": "2026-04-21T21:23:15Z",
                 "owner": "evyatarmeged",
                 "repo": "Raccoon",
-                "stars": 4000
+                "stars": 3998
               }
             }
           ],
@@ -591,7 +635,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19849
+                "stars": 19853
               }
             },
             {
@@ -606,7 +650,7 @@
                 "last_commit": "2026-08-05T17:30:50Z",
                 "owner": "derv82",
                 "repo": "wifite2",
-                "stars": 8083
+                "stars": 8082
               }
             }
           ],
@@ -619,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:13:00.712Z",
+    "last_updated": "2026-08-24T14:46:56.055Z",
     "original_repository": "MythicStack/Python-Security-Tool-Database",
     "original_repository_id": 521093431,
     "original_repository_sha": "34f820c5479e927304c241e5e7f8b49c8beb5fa6",
