@@ -30,11 +30,11 @@ If you think a project should be included here I really want to know, but keep i
 
 ##### Not Python
 
-* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 38,866 | 🐛 597 | 🌐 Ruby | 📅 2026-08-24 - Alright so this thing isn't even close to being mostly Python, but cmon it's Metasploit. This has to be in here because I love this thing so much. This makes my life easier every single day.
+* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 38,868 | 🐛 597 | 🌐 Ruby | 📅 2026-08-24 - Alright so this thing isn't even close to being mostly Python, but cmon it's Metasploit. This has to be in here because I love this thing so much. This makes my life easier every single day.
 
 ##### Adversary Simulation
 
-* [Caldera](https://github.com/mitre/caldera) ⭐ 7,210 | 🐛 75 | 🌐 Python | 📅 2026-08-12 - Mitre's adversary emulation tool. It's not entirely python, but it's mostly python and so sick that it has to be included here.
+* [Caldera](https://github.com/mitre/caldera) ⭐ 7,211 | 🐛 75 | 🌐 Python | 📅 2026-08-12 - Mitre's adversary emulation tool. It's not entirely python, but it's mostly python and so sick that it has to be included here.
 * [Infection Monkey](https://github.com/guardicore/monkey) ⭐ 7,076 | 🐛 239 | 🌐 Python | 📅 2025-05-01 - Attack simulation tool with self-propagation functionality and a web portal that provides mini security write-ups after attack is complete. Several exploits to chose from + it's a very clean tool.
 * [FakeNet-NG](https://github.com/mandiant/flare-fakenet-ng) ⭐ 2,182 | 🐛 81 | 🌐 Python | 📅 2026-05-28 - Simulate legitimate network services while redirecting specified traffic. This is also an older project that is no longer maintained, but I could not find something that provided the same functionality and this still works.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) ⭐ 1,038 | 🐛 4 | 🌐 Python | 📅 2020-05-27 - Old, on Python2, and no longer maintained. That being said, it's got a lot of reference material if you're interested. I messed around with it for an hour or two and all the modules I played with worked without too much finagling (No clue about the OSX stuff though, let me know).
@@ -52,12 +52,12 @@ If you think a project should be included here I really want to know, but keep i
 
 ##### Information Gathering
 
-* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 90,185 | 🐛 333 | 🌐 Python | 📅 2026-08-24 - Best broad social media hunter I've used by far. So simple a caveman could do it.
-* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 21,400 | 🐛 310 | 🌐 Python | 📅 2026-04-13 - Easily the coolest OSINT tool on the list, it would be first if I wasn't trying to keep this thing alphabetical. Its perks are too numerous to outline here, go to their page.
-* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,190 | 🐛 8 | 🌐 Python | 📅 2026-08-25 - Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?
-* [holehe](https://github.com/megadose/holehe) ⭐ 14,160 | 🐛 114 | 🌐 Python | 📅 2024-09-10 - Simple mail checker for popular websites. Clean and to the point, updated by [megadose](https://twitter.com/palenath) as needed. They also have a lot of other interesting projects.
-* [Osintgram](https://github.com/Datalux/Osintgram) ⭐ 14,114 | 🐛 883 | 🌐 Python | 📅 2025-08-25 - Instagram is a wealth of data for those that look, it's maintained by a lot of folks, but Instagram changes may break functionality. It's a well organized project and lots of forks to take a look at.
-* [BlackBird](https://github.com/p1ngul1n0/blackbird) ⭐ 7,841 | 🐛 19 | 🌐 Python | 📅 2025-07-13 - Another OSINT tool! I seem to have a favorite category at this point.
+* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 90,203 | 🐛 333 | 🌐 Python | 📅 2026-08-25 - Best broad social media hunter I've used by far. So simple a caveman could do it.
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 21,403 | 🐛 310 | 🌐 Python | 📅 2026-04-13 - Easily the coolest OSINT tool on the list, it would be first if I wasn't trying to keep this thing alphabetical. Its perks are too numerous to outline here, go to their page.
+* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,191 | 🐛 8 | 🌐 Python | 📅 2026-08-25 - Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?
+* [holehe](https://github.com/megadose/holehe) ⭐ 14,166 | 🐛 114 | 🌐 Python | 📅 2024-09-10 - Simple mail checker for popular websites. Clean and to the point, updated by [megadose](https://twitter.com/palenath) as needed. They also have a lot of other interesting projects.
+* [Osintgram](https://github.com/Datalux/Osintgram) ⭐ 14,115 | 🐛 883 | 🌐 Python | 📅 2025-08-25 - Instagram is a wealth of data for those that look, it's maintained by a lot of folks, but Instagram changes may break functionality. It's a well organized project and lots of forks to take a look at.
+* [BlackBird](https://github.com/p1ngul1n0/blackbird) ⭐ 7,842 | 🐛 19 | 🌐 Python | 📅 2025-07-13 - Another OSINT tool! I seem to have a favorite category at this point.
 * [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,867 | 🐛 38 | 🌐 Python | 📅 2024-11-01 - The OSINT equivalent to the Metasploit Framework. Could be updated more often, but it's well respected and there's decades of content on the internet to help you get familiar with it.
 * [IntelOwl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,682 | 🐛 74 | 🌐 Python | 📅 2026-08-24 - It's a cool malware/malspam threat intel tool. It's mostly Python, but it's pretty JS heavy. I've used it and my thoughts on it are: "Clean/Functional/Well Documented, but it smells like a corporate project."
 * [Moriarty Project](https://github.com/AzizKpln/Moriarty-Project) ⭐ 2,073 | 🐛 28 | 🌐 Python | 📅 2024-07-13 - Checks for provided phone number on popular websites, performs searches, and provides ownership information.
@@ -70,11 +70,11 @@ If you think a project should be included here I really want to know, but keep i
 
 * [NetworkX](https://github.com/networkx/networkx) ⭐ 17,219 | 🐛 323 | 🌐 Python | 📅 2026-08-21 - Incredibly thourough network mapping and analysis tool for small and large networks.
 * [Impacket](https://github.com/fortra/impacket) ⭐ 16,031 | 🐛 312 | 🌐 Python | 📅 2026-08-24 - Impacket is a flexible toolkit for crafting, manipulating, and analyzing network protocols. Never leave home without it.
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,496 | 🐛 134 | 🌐 Python | 📅 2026-08-18 - Python packet manipulation tool for a really solid number of protocols.
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,498 | 🐛 134 | 🌐 Python | 📅 2026-08-18 - Python packet manipulation tool for a really solid number of protocols.
 
 ##### Password Cracking
 
-* [Patator](https://github.com/lanjelot/patator) ⭐ 3,921 | 🐛 36 | 🌐 Python | 📅 2025-05-20 - All in one brute forcer. This is built as an alternative to Hydra (near and dear to me, but definitely not Python anymore, mostly C) and some other tooling built into Kali by default. It's a sick multi-threaded application that's super flexible and inclusive.
+* [Patator](https://github.com/lanjelot/patator) ⭐ 3,922 | 🐛 36 | 🌐 Python | 📅 2025-05-20 - All in one brute forcer. This is built as an alternative to Hydra (near and dear to me, but definitely not Python anymore, mostly C) and some other tooling built into Kali by default. It's a sick multi-threaded application that's super flexible and inclusive.
 
 ##### Penetration Testing
 
@@ -90,13 +90,13 @@ If you think a project should be included here I really want to know, but keep i
 ##### Vulnerability Scanning
 
 * [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,237 | 🐛 260 | 🌐 Python | 📅 2026-08-24 - Slight change up to the rest of the tools in this list, but Bandit is still pretty useful. It's a static code analysis tool for Python scripts. Can be helpful for finding vulnerabilities in home brew applications and it's just a nice tool to have around if you're going to be building anything on your own with Python so you're not making any egregious slip ups.
-* [Faraday](https://github.com/infobyte/faraday) ⭐ 6,692 | 🐛 26 | 🌐 Python | 📅 2026-08-20 - Faraday is clean and I love using it, I've messed with it in my home lab a lot. Bottom line is, it's fantastic. It has a clean & intuitive web UI, tracks vulnerability history, aids in remediation efforts, and it's updated as often as you'd expect. All the damn time.
+* [Faraday](https://github.com/infobyte/faraday) ⭐ 6,693 | 🐛 26 | 🌐 Python | 📅 2026-08-20 - Faraday is clean and I love using it, I've messed with it in my home lab a lot. Bottom line is, it's fantastic. It has a clean & intuitive web UI, tracks vulnerability history, aids in remediation efforts, and it's updated as often as you'd expect. All the damn time.
 * [Raccoon](https://github.com/evyatarmeged/Raccoon) ⭐ 3,999 | 🐛 14 | 🌐 Python | 📅 2026-04-21 - Raccoon is pretty sweet, very helpful, and a must have in your toolkit. It's not super well maintained, but it's open source and works perfectly out of the box for external attack surface scanning and information gathering.
 
 ##### Wireless Security
 
 * [BetterCAP](https://github.com/bettercap/bettercap) ⭐ 19,856 | 🐛 44 | 🌐 Go | 📅 2026-08-13 - BetterCAP is a powerful, flexible, and portable tool designed for performing various types of MITM attacks against networks along with general network recon.
-* [Wifite2](https://github.com/derv82/wifite2) ⭐ 8,083 | 🐛 348 | 🌐 Python | 📅 2026-08-05 - Whatever description isn't going to do the wifite rewrite any justice. WEP, WPS, and WPA/2 attacks galore. Must have if you're doing anything with wireless access points. I don't use any other Python tooling for wireless stuff, that's probably because I don't do much with wireless stuff in the first place so let me know what I missed!
+* [Wifite2](https://github.com/derv82/wifite2) ⭐ 8,084 | 🐛 348 | 🌐 Python | 📅 2026-08-05 - Whatever description isn't going to do the wifite rewrite any justice. WEP, WPS, and WPA/2 attacks galore. Must have if you're doing anything with wireless access points. I don't use any other Python tooling for wireless stuff, that's probably because I don't do much with wireless stuff in the first place so let me know what I missed!
 
 ***
 
