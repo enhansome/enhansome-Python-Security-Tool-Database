@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T14:39:59Z",
+                "last_commit": "2026-08-24T20:42:03Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38861
+                "stars": 38866
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2025-05-01T13:34:05Z",
                 "owner": "guardicore",
                 "repo": "monkey",
-                "stars": 7075
+                "stars": 7076
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-05-28T18:26:34Z",
                 "owner": "mandiant",
                 "repo": "flare-fakenet-ng",
-                "stars": 2180
+                "stars": 2182
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-23T09:43:49Z",
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
-                "stars": 3442
+                "stars": 3445
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-24T05:19:36Z",
                 "owner": "sherlock-project",
                 "repo": "sherlock",
-                "stars": 90158
+                "stars": 90185
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-04-13T19:43:06Z",
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 21389
+                "stars": 21400
               }
             },
             {
@@ -260,10 +260,10 @@
                 "archived": false,
                 "id": 1212922,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:20:49Z",
+                "last_commit": "2026-08-25T02:10:17Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17180
+                "stars": 17190
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2024-09-10T20:24:32Z",
                 "owner": "megadose",
                 "repo": "holehe",
-                "stars": 14119
+                "stars": 14160
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2025-08-25T12:00:48Z",
                 "owner": "Datalux",
                 "repo": "Osintgram",
-                "stars": 14107
+                "stars": 14114
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2025-07-13T13:48:19Z",
                 "owner": "p1ngul1n0",
                 "repo": "blackbird",
-                "stars": 7831
+                "stars": 7841
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2024-11-01T20:11:51Z",
                 "owner": "lanmaster53",
                 "repo": "recon-ng",
-                "stars": 5866
+                "stars": 5867
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-24T06:44:05Z",
                 "owner": "intelowlproject",
                 "repo": "IntelOwl",
-                "stars": 4681
+                "stars": 4682
               }
             },
             {
@@ -383,7 +383,7 @@
                 "last_commit": "2024-03-21T03:45:48Z",
                 "owner": "laramies",
                 "repo": "metagoofil",
-                "stars": 1311
+                "stars": 1312
               }
             },
             {
@@ -420,7 +420,7 @@
                 "last_commit": "2026-08-21T21:18:06Z",
                 "owner": "networkx",
                 "repo": "networkx",
-                "stars": 17218
+                "stars": 17219
               }
             },
             {
@@ -432,10 +432,10 @@
                 "archived": false,
                 "id": 33997353,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:52:39Z",
+                "last_commit": "2026-08-24T21:24:31Z",
                 "owner": "fortra",
                 "repo": "impacket",
-                "stars": 16029
+                "stars": 16031
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2026-08-18T17:11:17Z",
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12494
+                "stars": 12496
               }
             }
           ],
@@ -494,7 +494,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38255
+                "stars": 38258
               }
             },
             {
@@ -546,7 +546,7 @@
                 "last_commit": "2026-06-04T21:23:34Z",
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15227
+                "stars": 15230
               }
             },
             {
@@ -583,7 +583,7 @@
                 "last_commit": "2026-08-24T11:13:47Z",
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8236
+                "stars": 8237
               }
             },
             {
@@ -613,7 +613,7 @@
                 "last_commit": "2026-04-21T21:23:15Z",
                 "owner": "evyatarmeged",
                 "repo": "Raccoon",
-                "stars": 3998
+                "stars": 3999
               }
             }
           ],
@@ -635,7 +635,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19853
+                "stars": 19856
               }
             },
             {
@@ -650,7 +650,7 @@
                 "last_commit": "2026-08-05T17:30:50Z",
                 "owner": "derv82",
                 "repo": "wifite2",
-                "stars": 8082
+                "stars": 8083
               }
             }
           ],
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:46:56.055Z",
+    "last_updated": "2026-08-25T03:08:46.502Z",
     "original_repository": "MythicStack/Python-Security-Tool-Database",
     "original_repository_id": 521093431,
     "original_repository_sha": "34f820c5479e927304c241e5e7f8b49c8beb5fa6",
