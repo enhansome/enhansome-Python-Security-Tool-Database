@@ -12,12 +12,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metasploit Framework",
+                "homepage": "https://www.metasploit.com/",
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T20:53:58Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:59:06Z",
+                "open_issues": 593,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38901
+                "stars": 38908,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -35,12 +42,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated Adversary Emulation Platform",
+                "homepage": "https://caldera.apache.org/",
                 "id": 112409981,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:01:16Z",
+                "open_issues": 69,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7220
+                "stars": 7220,
+                "topics": [
+                  "adversary-emulation",
+                  "caldera",
+                  "cybersecurity",
+                  "mitre-attack",
+                  "red-team",
+                  "security-automation",
+                  "security-testing"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -51,12 +71,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infection Monkey - An open-source adversary emulation platform",
+                "homepage": "https://www.guardicore.com/infectionmonkey/",
                 "id": 41620215,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-01T13:34:05Z",
+                "open_issues": 240,
                 "owner": "guardicore",
                 "repo": "monkey",
-                "stars": 7078
+                "stars": 7078,
+                "topics": [
+                  "adversary-emulation",
+                  "infection-monkey",
+                  "penetration-testing",
+                  "security-automation",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -67,12 +98,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FakeNet-NG - Next Generation Dynamic Network Analysis Tool",
+                "homepage": null,
                 "id": 62087069,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-28T18:26:34Z",
+                "open_issues": 81,
                 "owner": "mandiant",
                 "repo": "flare-fakenet-ng",
-                "stars": 2185
+                "stars": 2185,
+                "topics": [
+                  "fakenet-ng",
+                  "gsoc-2026",
+                  "malware-analysis",
+                  "mandiant-flare",
+                  "traffic-redirection"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -83,12 +125,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Security Incidents In A Box!\"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequences (\"narratives\") to simulate realistic scenarios and generate corresponding network and filesystem artifacts.",
+                "homepage": null,
                 "id": 105951361,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-27T15:00:56Z",
+                "open_issues": 4,
                 "owner": "TryCatchHCF",
                 "repo": "DumpsterFire",
-                "stars": 1039
+                "stars": 1039,
+                "topics": [
+                  "automation",
+                  "blue-team",
+                  "blue-teams",
+                  "hacking",
+                  "hacking-tool",
+                  "hacking-tools",
+                  "infosec",
+                  "pentest",
+                  "pentest-tool",
+                  "pentest-tools",
+                  "pentesting",
+                  "red-team",
+                  "red-teams",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -99,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository of curated datasets from various attacks",
+                "homepage": null,
                 "id": 281495346,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:26:42Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:28:17Z",
+                "open_issues": 3,
                 "owner": "splunk",
                 "repo": "attack_data",
-                "stars": 809
+                "stars": 809,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -122,12 +190,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loki - Simple IOC and YARA Scanner",
+                "homepage": "https://www.nextron-systems.com/compare-our-scanners/",
                 "id": 29420337,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-12T08:00:47Z",
+                "open_issues": 18,
                 "owner": "Neo23x0",
                 "repo": "Loki",
-                "stars": 3786
+                "stars": 3786,
+                "topics": [
+                  "antivirus",
+                  "dfir",
+                  "hash",
+                  "ioc",
+                  "otx",
+                  "python",
+                  "scanner",
+                  "signature",
+                  "yara",
+                  "yara-rules"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -138,12 +222,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Malware Configuration And Payload Extraction",
+                "homepage": "https://capesandbox.com/analysis/",
                 "id": 215366713,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T12:10:57Z",
+                "open_issues": 58,
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
-                "stars": 3454
+                "stars": 3454,
+                "topics": [
+                  "cape",
+                  "configs",
+                  "debugging-tools",
+                  "malware",
+                  "malware-analysis",
+                  "malware-research",
+                  "reverse-engineering",
+                  "sandbox",
+                  "unpacking"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -154,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Security Events Metadata (OSSEM)",
+                "homepage": null,
                 "id": 123052690,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-27T02:58:11Z",
+                "open_issues": 17,
                 "owner": "OTRF",
                 "repo": "OSSEM",
-                "stars": 1300
+                "stars": 1300,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -170,12 +274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modified edition of cuckoo",
+                "homepage": null,
                 "id": 47121883,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-21T14:35:34Z",
+                "open_issues": 173,
                 "owner": "spender-sandbox",
                 "repo": "cuckoo-modified",
-                "stars": 406
+                "stars": 406,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -186,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Cold Disk Quick Response (CDQR) tool is a fast and easy to use forensic artifact parsing tool that works on disk images, mounted drives and extracted artifacts from Windows, Linux, MacOS, and Android devices",
+                "homepage": null,
                 "id": 49660976,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-25T16:20:38Z",
+                "open_issues": 5,
                 "owner": "orlikoski",
                 "repo": "CDQR",
-                "stars": 345
+                "stars": 345,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -202,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remote Memory Acquisition Tool ",
+                "homepage": "https://www.threatresponse.cloud",
                 "id": 65315497,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-09-22T15:58:11Z",
+                "open_issues": 13,
                 "owner": "ThreatResponse",
                 "repo": "margaritashotgun",
-                "stars": 253
+                "stars": 253,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -218,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line utility and Python package to ease the (un)mounting of forensic disk images",
+                "homepage": null,
                 "id": 16476185,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-09T15:49:13Z",
+                "open_issues": 6,
                 "owner": "ralphje",
                 "repo": "imagemounter",
-                "stars": 127
+                "stars": 127,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -241,12 +365,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hunt down social media accounts by username across social networks",
+                "homepage": "https://sherlockproject.xyz",
                 "id": 162998479,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T07:42:17Z",
+                "open_issues": 334,
                 "owner": "sherlock-project",
                 "repo": "sherlock",
-                "stars": 90517
+                "stars": 90568,
+                "topics": [
+                  "cli",
+                  "cti",
+                  "cybersecurity",
+                  "forensics",
+                  "hacktoberfest",
+                  "information-gathering",
+                  "infosec",
+                  "linux",
+                  "osint",
+                  "pentesting",
+                  "python",
+                  "python3",
+                  "reconnaissance",
+                  "redteam",
+                  "sherlock",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -257,12 +403,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+                "homepage": "http://www.spiderfoot.net",
                 "id": 4165675,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T19:43:06Z",
+                "open_issues": 314,
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 21482
+                "stars": 21493,
+                "topics": [
+                  "attacksurface",
+                  "cti",
+                  "cybersecurity",
+                  "footprinting",
+                  "hacking",
+                  "information-gathering",
+                  "information-security",
+                  "infosec",
+                  "intelligence-gathering",
+                  "osint",
+                  "osint-framework",
+                  "osint-reconnaissance",
+                  "osint-tool",
+                  "pentesting",
+                  "python",
+                  "recon",
+                  "security-tools",
+                  "threat-intelligence",
+                  "threatintel"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -273,12 +444,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "E-mails, subdomains and names Harvester - OSINT ",
+                "homepage": "http://www.edge-security.com/",
                 "id": 1212922,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:16:12Z",
+                "license": null,
+                "last_commit": "2026-08-29T04:51:55Z",
+                "open_issues": 6,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17223
+                "stars": 17225,
+                "topics": [
+                  "blueteam",
+                  "discovery",
+                  "emails",
+                  "information-gathering",
+                  "osint",
+                  "python",
+                  "recon",
+                  "reconnaissance",
+                  "redteam",
+                  "subdomain-enumeration"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -289,12 +476,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+                "homepage": null,
                 "id": 275031765,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-10T20:24:32Z",
+                "open_issues": 115,
                 "owner": "megadose",
                 "repo": "holehe",
-                "stars": 14375
+                "stars": 14403,
+                "topics": [
+                  "ebay",
+                  "email",
+                  "emails",
+                  "information-gathering",
+                  "instagram",
+                  "open-source-intelligence",
+                  "osint",
+                  "osint-python",
+                  "osint-tools",
+                  "pypi",
+                  "python",
+                  "social-network",
+                  "tellonym",
+                  "trio",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -305,12 +513,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+                "homepage": null,
                 "id": 190823163,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-25T12:00:48Z",
+                "open_issues": 884,
                 "owner": "Datalux",
                 "repo": "Osintgram",
-                "stars": 14159
+                "stars": 14167,
+                "topics": [
+                  "analysis",
+                  "hacking",
+                  "information-gathering",
+                  "instagram",
+                  "instagram-account",
+                  "instagram-api",
+                  "nickname",
+                  "osint",
+                  "osint-python",
+                  "penetration-testing",
+                  "python",
+                  "python3",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -321,12 +548,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OSINT tool to search for accounts by username and email in social networks.",
+                "homepage": "https://p1ngul1n0.gitbook.io/blackbird/",
                 "id": 489384246,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-13T13:48:19Z",
+                "open_issues": 15,
                 "owner": "p1ngul1n0",
                 "repo": "blackbird",
-                "stars": 7875
+                "stars": 7881,
+                "topics": [
+                  "cybersecurity",
+                  "osint",
+                  "pentesting",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -337,12 +574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
+                "homepage": null,
                 "id": 178254323,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-01T20:11:51Z",
+                "open_issues": 38,
                 "owner": "lanmaster53",
                 "repo": "recon-ng",
-                "stars": 5873
+                "stars": 5874,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -353,12 +595,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IntelOwl: manage your Threat Intelligence at scale",
+                "homepage": "https://intelowlproject.github.io",
                 "id": 231109256,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T09:47:26Z",
+                "open_issues": 75,
                 "owner": "intelowlproject",
                 "repo": "IntelOwl",
-                "stars": 4684
+                "stars": 4683,
+                "topics": [
+                  "cyber-security",
+                  "cyber-threat-intelligence",
+                  "cybersecurity",
+                  "dfir",
+                  "enrichment",
+                  "hacktoberfest",
+                  "honeynet",
+                  "incident-response",
+                  "intel-owl",
+                  "ioc",
+                  "malware-analysis",
+                  "malware-analyzer",
+                  "osint",
+                  "osint-python",
+                  "python",
+                  "security-tools",
+                  "threat-hunting",
+                  "threat-intelligence",
+                  "threathunting",
+                  "threatintel"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -369,12 +637,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This tool gives information about the phone number that you entered.",
+                "homepage": null,
                 "id": 262434885,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-13T06:27:10Z",
+                "open_issues": 28,
                 "owner": "AzizKpln",
                 "repo": "Moriarty-Project",
-                "stars": 2075
+                "stars": 2075,
+                "topics": [
+                  "advanced",
+                  "advanced-osint-tool",
+                  "amazon-aws",
+                  "information",
+                  "information-gathering",
+                  "kali-osint",
+                  "moriarty",
+                  "moriarty-project",
+                  "osint",
+                  "osint-kali",
+                  "osint-python",
+                  "osint-tool",
+                  "osinttool",
+                  "phone",
+                  "phone-information",
+                  "phone-number",
+                  "phone-number-information",
+                  "phoneinfo",
+                  "python3-moriarty",
+                  "sms"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -385,12 +679,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Subdomain enumeration tool",
+                "homepage": "https://jonlu.ca/anubis/",
                 "id": 113704915,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T10:35:40Z",
+                "open_issues": 0,
                 "owner": "jonluca",
                 "repo": "anubis",
-                "stars": 1375
+                "stars": 1375,
+                "topics": [
+                  "anubis",
+                  "anubis-db",
+                  "dnsdumpster",
+                  "hackertarget",
+                  "information-gathering",
+                  "information-security",
+                  "kali",
+                  "netcraft",
+                  "network",
+                  "network-security",
+                  "subdomain",
+                  "subdomains"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -401,12 +713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metadata harvester",
+                "homepage": null,
                 "id": 40654736,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-03-21T03:45:48Z",
+                "open_issues": 19,
                 "owner": "laramies",
                 "repo": "metagoofil",
-                "stars": 1313
+                "stars": 1314,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -417,12 +734,35 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.",
+                "homepage": "https://tinyurl.com/DaProfiler",
                 "id": 380501499,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-27T18:05:53Z",
+                "open_issues": 5,
                 "owner": "daprofiler",
                 "repo": "DaProfiler",
-                "stars": 1040
+                "stars": 1040,
+                "topics": [
+                  "email",
+                  "emails",
+                  "facebook",
+                  "france",
+                  "information-gathering",
+                  "instagram",
+                  "intelligence",
+                  "osint",
+                  "osint-python",
+                  "osint-tools",
+                  "person-search",
+                  "python",
+                  "skype",
+                  "social-media",
+                  "social-network",
+                  "threat-intelligence",
+                  "tracelabs"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -440,12 +780,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Network Analysis in Python",
+                "homepage": "https://networkx.org",
                 "id": 890377,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:32:16Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:07:11Z",
+                "open_issues": 326,
                 "owner": "networkx",
                 "repo": "networkx",
-                "stars": 17230
+                "stars": 17231,
+                "topics": [
+                  "complex-networks",
+                  "graph-algorithms",
+                  "graph-analysis",
+                  "graph-generation",
+                  "graph-theory",
+                  "graph-visualization",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -456,12 +809,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Impacket is a collection of Python classes for working with network protocols.",
+                "homepage": "https://www.coresecurity.com",
                 "id": 33997353,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:39:55Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T20:35:27Z",
+                "open_issues": 319,
                 "owner": "fortra",
                 "repo": "impacket",
-                "stars": 16047
+                "stars": 16049,
+                "topics": [
+                  "dcerpc",
+                  "dcom",
+                  "impacket",
+                  "kerberos",
+                  "msrpc",
+                  "netbios",
+                  "pass-the-hash",
+                  "python",
+                  "smb",
+                  "wmi"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -472,12 +841,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scapy: the Python-based interactive packet manipulation program & library.",
+                "homepage": "https://scapy.net",
                 "id": 43509302,
                 "language": "Python",
-                "last_commit": "2026-08-28T04:33:57Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-28T15:14:55Z",
+                "open_issues": 131,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12501
+                "stars": 12501,
+                "topics": [
+                  "hacktoberfest",
+                  "network",
+                  "network-analysis",
+                  "network-discovery",
+                  "network-security",
+                  "network-visualization",
+                  "packet-analyser",
+                  "packet-capture",
+                  "packet-crafting",
+                  "packet-sniffer",
+                  "pcap",
+                  "python",
+                  "scapy",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -495,12 +885,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.",
+                "homepage": null,
                 "id": 23297444,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-05-20T00:07:33Z",
+                "open_issues": 36,
                 "owner": "lanjelot",
                 "repo": "patator",
-                "stars": 3923
+                "stars": 3924,
+                "topics": [
+                  "brute-force",
+                  "pentest"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -518,12 +916,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic SQL injection and database takeover tool",
+                "homepage": "http://sqlmap.org",
                 "id": 4793392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:44:26Z",
+                "open_issues": 33,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38291
+                "stars": 38294,
+                "topics": [
+                  "api-security",
+                  "appsec",
+                  "database",
+                  "database-security",
+                  "dbms",
+                  "detection",
+                  "exploitation",
+                  "pentesting",
+                  "python",
+                  "security-testing",
+                  "security-testing-tool",
+                  "sql-injection",
+                  "sqlinjection",
+                  "webapp-security",
+                  "webappsec"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -534,12 +953,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A swiss army knife for pentesting networks",
+                "homepage": null,
                 "id": 40718289,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-12-06T17:09:42Z",
+                "open_issues": 67,
                 "owner": "byt3bl33d3r",
                 "repo": "CrackMapExec",
-                "stars": 9160
+                "stars": 9159,
+                "topics": [
+                  "active-directory",
+                  "networks",
+                  "pentesting",
+                  "powershell",
+                  "python",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -550,12 +981,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities",
+                "homepage": null,
                 "id": 70102994,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-08-01T17:30:34Z",
+                "open_issues": 7,
                 "owner": "Esser50K",
                 "repo": "EvilTwinFramework",
-                "stars": 359
+                "stars": 359,
+                "topics": [
+                  "evil-twin",
+                  "framework",
+                  "hacking",
+                  "pentesters",
+                  "security",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -573,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+                "homepage": null,
                 "id": 7391261,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-04T21:23:34Z",
+                "open_issues": 12,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15242
+                "stars": 15244,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -589,12 +1037,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phishing Campaign Toolkit",
+                "homepage": null,
                 "id": 15592447,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-04T09:42:12Z",
+                "open_issues": 2,
                 "owner": "CrimsonForge-io",
                 "repo": "king-phisher",
-                "stars": 2583
+                "stars": 2584,
+                "topics": [
+                  "king-phisher",
+                  "phishing",
+                  "python",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -612,12 +1070,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bandit is a tool designed to find common security issues in Python code.",
+                "homepage": "https://bandit.readthedocs.io",
                 "id": 131129792,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T11:13:47Z",
+                "open_issues": 260,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8244
+                "stars": 8246,
+                "topics": [
+                  "bandit",
+                  "linter",
+                  "python",
+                  "security",
+                  "security-scanner",
+                  "security-tools",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -628,12 +1099,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Vulnerability Management Platform",
+                "homepage": "https://www.faradaysec.com",
                 "id": 14160461,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-20T14:02:24Z",
+                "open_issues": 26,
                 "owner": "infobyte",
                 "repo": "faraday",
-                "stars": 6696
+                "stars": 6697,
+                "topics": [
+                  "appsec",
+                  "burpsuite",
+                  "collaboration",
+                  "continuous-scanning",
+                  "cve",
+                  "cybersecurity",
+                  "devops",
+                  "devsecops",
+                  "infosec",
+                  "nessus",
+                  "nmap",
+                  "orchestration",
+                  "penetration-testing",
+                  "pentesting",
+                  "security",
+                  "security-audit",
+                  "security-automation",
+                  "vulnerability",
+                  "vulnerability-management",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -644,12 +1141,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high performance offensive security tool for reconnaissance and vulnerability scanning",
+                "homepage": null,
                 "id": 133257682,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-21T21:23:15Z",
+                "open_issues": 14,
                 "owner": "evyatarmeged",
                 "repo": "Raccoon",
-                "stars": 4004
+                "stars": 4004,
+                "topics": [
+                  "enumeration",
+                  "fuzzing",
+                  "hacking",
+                  "hacking-tool",
+                  "information-gathering",
+                  "offensive-security",
+                  "osint",
+                  "pentest-tool",
+                  "pentesting",
+                  "raccoon",
+                  "reconnaissance",
+                  "scanner",
+                  "security-scanner",
+                  "vulnerability-assessment",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -667,12 +1185,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+                "homepage": "https://www.bettercap.org/",
                 "id": 116576783,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T13:47:49Z",
+                "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19870
+                "stars": 19872,
+                "topics": [
+                  "ble",
+                  "deauthentication-attack",
+                  "dot11",
+                  "hacking",
+                  "hid",
+                  "mitm",
+                  "monitoring",
+                  "mousejack",
+                  "network-attacks",
+                  "password-sniffer",
+                  "pmkid",
+                  "proxy",
+                  "redteam",
+                  "redteaming",
+                  "rogue-ap",
+                  "security",
+                  "spoofing",
+                  "wifi",
+                  "wifi-security",
+                  "wpa2"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             },
@@ -683,12 +1227,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rewrite of the popular wireless network auditor, \"wifite\"",
+                "homepage": null,
                 "id": 36545885,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-05T17:30:50Z",
+                "open_issues": 348,
                 "owner": "derv82",
                 "repo": "wifite2",
-                "stars": 8091
+                "stars": 8094,
+                "topics": [
+                  "wifi-cracker",
+                  "wifi-password",
+                  "wifi-security",
+                  "wifite"
+                ]
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
             }
@@ -702,15 +1256,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:17:43.746Z",
+    "last_updated": "2026-08-29T05:06:00.062Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Solid Python toolkit for those in the security industry. Some by me, most by smarter people.",
+      "homepage": null,
       "id": 521093431,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-01-20T03:58:34Z",
+      "open_issues": 0,
       "owner": "MythicStack",
       "repo": "Python-Security-Tool-Database",
-      "stars": 57
+      "stars": 57,
+      "topics": [
+        "adversary-emulation",
+        "adversary-simulation",
+        "awesome-list",
+        "cybersecurity",
+        "hacking",
+        "information-gathering",
+        "infosec",
+        "osint",
+        "penetration-testing-tools",
+        "python",
+        "security-tools"
+      ]
     },
     "original_repository_sha": "34f820c5479e927304c241e5e7f8b49c8beb5fa6",
     "enhanced_repository": "enhansome/enhansome-Python-Security-Tool-Database",
