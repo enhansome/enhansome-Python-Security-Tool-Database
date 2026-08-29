@@ -21,7 +21,7 @@
                 "open_issues": 593,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38908,
+                "stars": 38910,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -107,7 +107,7 @@
                 "open_issues": 81,
                 "owner": "mandiant",
                 "repo": "flare-fakenet-ng",
-                "stars": 2185,
+                "stars": 2184,
                 "topics": [
                   "fakenet-ng",
                   "gsoc-2026",
@@ -231,7 +231,7 @@
                 "open_issues": 58,
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
-                "stars": 3454,
+                "stars": 3456,
                 "topics": [
                   "cape",
                   "configs",
@@ -370,11 +370,11 @@
                 "id": 162998479,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T07:42:17Z",
+                "last_commit": "2026-08-29T05:14:28Z",
                 "open_issues": 334,
                 "owner": "sherlock-project",
                 "repo": "sherlock",
-                "stars": 90568,
+                "stars": 90573,
                 "topics": [
                   "cli",
                   "cti",
@@ -412,7 +412,7 @@
                 "open_issues": 314,
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 21493,
+                "stars": 21495,
                 "topics": [
                   "attacksurface",
                   "cti",
@@ -485,7 +485,7 @@
                 "open_issues": 115,
                 "owner": "megadose",
                 "repo": "holehe",
-                "stars": 14403,
+                "stars": 14407,
                 "topics": [
                   "ebay",
                   "email",
@@ -522,7 +522,7 @@
                 "open_issues": 884,
                 "owner": "Datalux",
                 "repo": "Osintgram",
-                "stars": 14167,
+                "stars": 14168,
                 "topics": [
                   "analysis",
                   "hacking",
@@ -557,7 +557,7 @@
                 "open_issues": 15,
                 "owner": "p1ngul1n0",
                 "repo": "blackbird",
-                "stars": 7881,
+                "stars": 7884,
                 "topics": [
                   "cybersecurity",
                   "osint",
@@ -583,7 +583,7 @@
                 "open_issues": 38,
                 "owner": "lanmaster53",
                 "repo": "recon-ng",
-                "stars": 5874,
+                "stars": 5875,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
@@ -786,7 +786,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:07:11Z",
-                "open_issues": 326,
+                "open_issues": 327,
                 "owner": "networkx",
                 "repo": "networkx",
                 "stars": 17231,
@@ -922,7 +922,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:44:26Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
                 "stars": 38294,
@@ -1025,7 +1025,7 @@
                 "open_issues": 12,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15244,
+                "stars": 15245,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
@@ -1194,7 +1194,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19872,
+                "stars": 19876,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:06:00.062Z",
+    "last_updated": "2026-08-29T08:58:21.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "Solid Python toolkit for those in the security industry. Some by me, most by smarter people.",
