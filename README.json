@@ -21,7 +21,7 @@
                 "open_issues": 611,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39076,
+                "stars": 39077,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -51,7 +51,7 @@
                 "open_issues": 76,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7303,
+                "stars": 7304,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -227,7 +227,7 @@
                 "id": 215366713,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:11:12Z",
+                "last_commit": "2026-10-03T06:11:02Z",
                 "open_issues": 78,
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
@@ -370,11 +370,11 @@
                 "id": 162998479,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T05:18:19Z",
+                "last_commit": "2026-10-03T05:16:49Z",
                 "open_issues": 354,
                 "owner": "sherlock-project",
                 "repo": "sherlock",
-                "stars": 93160,
+                "stars": 93166,
                 "topics": [
                   "cli",
                   "cti",
@@ -412,7 +412,7 @@
                 "open_issues": 323,
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 22735,
+                "stars": 22739,
                 "topics": [
                   "attacksurface",
                   "cti",
@@ -453,7 +453,7 @@
                 "open_issues": 7,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17766,
+                "stars": 17769,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -485,7 +485,7 @@
                 "open_issues": 118,
                 "owner": "megadose",
                 "repo": "holehe",
-                "stars": 15068,
+                "stars": 15071,
                 "topics": [
                   "ebay",
                   "email",
@@ -522,7 +522,7 @@
                 "open_issues": 2,
                 "owner": "Datalux",
                 "repo": "Osintgram",
-                "stars": 14751,
+                "stars": 14752,
                 "topics": [
                   "analysis",
                   "hacking",
@@ -557,7 +557,7 @@
                 "open_issues": 16,
                 "owner": "antoniaci",
                 "repo": "blackbird",
-                "stars": 8816,
+                "stars": 8818,
                 "topics": [
                   "cybersecurity",
                   "osint",
@@ -583,7 +583,7 @@
                 "open_issues": 39,
                 "owner": "lanmaster53",
                 "repo": "recon-ng",
-                "stars": 5952,
+                "stars": 5953,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
@@ -925,7 +925,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38587,
+                "stars": 38588,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -1194,7 +1194,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20052,
+                "stars": 20053,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:31:18.864Z",
+    "last_updated": "2026-10-03T08:00:41.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "Solid Python toolkit for those in the security industry. Some by me, most by smarter people.",

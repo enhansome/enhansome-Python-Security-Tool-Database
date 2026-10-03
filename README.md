@@ -30,11 +30,11 @@ If you think a project should be included here I really want to know, but keep i
 
 ##### Not Python
 
-* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 39,076 | 🐛 611 | 🌐 Ruby | 📅 2026-10-02 - Alright so this thing isn't even close to being mostly Python, but cmon it's Metasploit. This has to be in here because I love this thing so much. This makes my life easier every single day.
+* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 39,077 | 🐛 611 | 🌐 Ruby | 📅 2026-10-02 - Alright so this thing isn't even close to being mostly Python, but cmon it's Metasploit. This has to be in here because I love this thing so much. This makes my life easier every single day.
 
 ##### Adversary Simulation
 
-* [Caldera](https://github.com/mitre/caldera) ⭐ 7,303 | 🐛 76 | 🌐 Python | 📅 2026-08-27 - Mitre's adversary emulation tool. It's not entirely python, but it's mostly python and so sick that it has to be included here.
+* [Caldera](https://github.com/mitre/caldera) ⭐ 7,304 | 🐛 76 | 🌐 Python | 📅 2026-08-27 - Mitre's adversary emulation tool. It's not entirely python, but it's mostly python and so sick that it has to be included here.
 * [Infection Monkey](https://github.com/guardicore/monkey) ⭐ 7,096 | 🐛 240 | 🌐 Python | 📅 2025-05-01 - Attack simulation tool with self-propagation functionality and a web portal that provides mini security write-ups after attack is complete. Several exploits to chose from + it's a very clean tool.
 * [FakeNet-NG](https://github.com/mandiant/flare-fakenet-ng) ⭐ 2,204 | 🐛 81 | 🌐 Python | 📅 2026-05-28 - Simulate legitimate network services while redirecting specified traffic. This is also an older project that is no longer maintained, but I could not find something that provided the same functionality and this still works.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) ⭐ 1,041 | 🐛 5 | 🌐 Python | 📅 2020-05-27 - Old, on Python2, and no longer maintained. That being said, it's got a lot of reference material if you're interested. I messed around with it for an hour or two and all the modules I played with worked without too much finagling (No clue about the OSX stuff though, let me know).
@@ -43,7 +43,7 @@ If you think a project should be included here I really want to know, but keep i
 ##### Digital Forensics and Incident Response (DFIR)
 
 * [Loki (IOC Scanner)](https://github.com/Neo23x0/Loki) ⭐ 3,795 | 🐛 18 | 🌐 Python | 📅 2026-01-12 - Loki is an absolutely sick IOC scanner. Supports: hashes, yara, filenames, and C2 IOCs.
-* [Malware CAPE](https://github.com/kevoreilly/CAPEv2) ⭐ 3,545 | 🐛 78 | 🌐 Python | 📅 2026-10-02 - This is the Malware Configuration and Payload Extractor, hence the name CAPE. It's phenomenal and there's an [online instance](https://capesandbox.com/).
+* [Malware CAPE](https://github.com/kevoreilly/CAPEv2) ⭐ 3,545 | 🐛 78 | 🌐 Python | 📅 2026-10-03 - This is the Malware Configuration and Payload Extractor, hence the name CAPE. It's phenomenal and there's an [online instance](https://capesandbox.com/).
 * [OSSEM](https://github.com/OTRF/OSSEM) ⭐ 1,301 | 🐛 17 | 🌐 Python | 📅 2023-02-27 - This is the Open Source Security Events Metadata. Weird name, but great idea. Event log analysis + documentation + standardized framework = win in my book. I'm not a DFIR expert, so can't say for sure how useful this is in a corportate setting, but I appreciate what's going on here.
 * [Cuckoo Modified(+Sandbox)](https://github.com/spender-sandbox/cuckoo-modified) ⭐ 406 | 🐛 173 | 🌐 Python | 📅 2017-11-21 - This is deprecated, but the one I'm familiar with. Never used the new one, but it's [here](http://www.cuckoosandbox.org/). This is a really excellent automated malware analyzer, highly recommend.
 * [Cold Disk, Quick Response](https://github.com/orlikoski/CDQR) ⭐ 346 | 🐛 5 | 🌐 Python | 📅 2022-06-25 - CDQR is a disk parser and artifact collector. Their readme explains all. This is one of the few on my list that I've never personally used. I also couldn't easily set up a situation in order to use it effectively to test it, but it's been in a bunch of DFIR kits I've been around so I feel comfortable including it here.
@@ -52,13 +52,13 @@ If you think a project should be included here I really want to know, but keep i
 
 ##### Information Gathering
 
-* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 93,160 | 🐛 354 | 🌐 Python | 📅 2026-10-02 - Best broad social media hunter I've used by far. So simple a caveman could do it.
-* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 22,735 | 🐛 323 | 🌐 Python | 📅 2026-04-13 - Easily the coolest OSINT tool on the list, it would be first if I wasn't trying to keep this thing alphabetical. Its perks are too numerous to outline here, go to their page.
-* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,766 | 🐛 7 | 🌐 Python | 📅 2026-10-02 - Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?
-* [holehe](https://github.com/megadose/holehe) ⭐ 15,068 | 🐛 118 | 🌐 Python | 📅 2024-09-10 - Simple mail checker for popular websites. Clean and to the point, updated by [megadose](https://twitter.com/palenath) as needed. They also have a lot of other interesting projects.
-* [Osintgram](https://github.com/Datalux/Osintgram) ⭐ 14,751 | 🐛 2 | 🌐 Python | 📅 2026-09-28 - Instagram is a wealth of data for those that look, it's maintained by a lot of folks, but Instagram changes may break functionality. It's a well organized project and lots of forks to take a look at.
-* [BlackBird](https://github.com/p1ngul1n0/blackbird) ⭐ 8,816 | 🐛 16 | 🌐 Python | 📅 2025-07-13 - Another OSINT tool! I seem to have a favorite category at this point.
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,952 | 🐛 39 | 🌐 Python | 📅 2024-11-01 - The OSINT equivalent to the Metasploit Framework. Could be updated more often, but it's well respected and there's decades of content on the internet to help you get familiar with it.
+* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 93,166 | 🐛 354 | 🌐 Python | 📅 2026-10-03 - Best broad social media hunter I've used by far. So simple a caveman could do it.
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 22,739 | 🐛 323 | 🌐 Python | 📅 2026-04-13 - Easily the coolest OSINT tool on the list, it would be first if I wasn't trying to keep this thing alphabetical. Its perks are too numerous to outline here, go to their page.
+* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,769 | 🐛 7 | 🌐 Python | 📅 2026-10-02 - Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?
+* [holehe](https://github.com/megadose/holehe) ⭐ 15,071 | 🐛 118 | 🌐 Python | 📅 2024-09-10 - Simple mail checker for popular websites. Clean and to the point, updated by [megadose](https://twitter.com/palenath) as needed. They also have a lot of other interesting projects.
+* [Osintgram](https://github.com/Datalux/Osintgram) ⭐ 14,752 | 🐛 2 | 🌐 Python | 📅 2026-09-28 - Instagram is a wealth of data for those that look, it's maintained by a lot of folks, but Instagram changes may break functionality. It's a well organized project and lots of forks to take a look at.
+* [BlackBird](https://github.com/p1ngul1n0/blackbird) ⭐ 8,818 | 🐛 16 | 🌐 Python | 📅 2025-07-13 - Another OSINT tool! I seem to have a favorite category at this point.
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,953 | 🐛 39 | 🌐 Python | 📅 2024-11-01 - The OSINT equivalent to the Metasploit Framework. Could be updated more often, but it's well respected and there's decades of content on the internet to help you get familiar with it.
 * [IntelOwl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,737 | 🐛 72 | 🌐 Python | 📅 2026-10-01 - It's a cool malware/malspam threat intel tool. It's mostly Python, but it's pretty JS heavy. I've used it and my thoughts on it are: "Clean/Functional/Well Documented, but it smells like a corporate project."
 * [Moriarty Project](https://github.com/AzizKpln/Moriarty-Project) ⭐ 2,106 | 🐛 3 | 🌐 Python | 📅 2026-09-09 - Checks for provided phone number on popular websites, performs searches, and provides ownership information.
 * [Anubis](https://github.com/jonluca/Anubis) ⭐ 1,379 | 🐛 0 | 🌐 Python | 📅 2026-08-03 - Subdomain enumerator actively maintained by [jonluca](https://github.com/jonluca). It's a good tool and it works well. Has the added benefit of having a nice README with clear examples. Every issue (at the time of writing) has been resolved. The dude has some pretty cool projects on his blog too.
@@ -78,7 +78,7 @@ If you think a project should be included here I really want to know, but keep i
 
 ##### Penetration Testing
 
-* [SQL Map](https://github.com/sqlmapproject/sqlmap) ⭐ 38,587 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - This thing is so cool! Really awesome set of contributors on this project, basically it's an automated detector/exploiter for SQL injection vulnerabilities. This thing kicks ass once you get the hang of it.
+* [SQL Map](https://github.com/sqlmapproject/sqlmap) ⭐ 38,588 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - This thing is so cool! Really awesome set of contributors on this project, basically it's an automated detector/exploiter for SQL injection vulnerabilities. This thing kicks ass once you get the hang of it.
 * [CrackMapExec](https://www.kali.org/tools/crackmapexec/) - CrackMapExec (CME) is a post-exploitation tool to automate the assessment of large Active Directory networks. I think there's some drama here between [byt3bl33d3r](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived and Kali, but I don't know so I'm linking primarily to the Kali one since it's maintained and byt3's is archived.
 * [EvilTwinFramework](https://github.com/Esser50K/EvilTwinFramework) ⭐ 363 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - Python tool to help penetration testers perform evil twin attacks and some other wifi related exploits.
 
@@ -95,7 +95,7 @@ If you think a project should be included here I really want to know, but keep i
 
 ##### Wireless Security
 
-* [BetterCAP](https://github.com/bettercap/bettercap) ⭐ 20,052 | 🐛 44 | 🌐 Go | 📅 2026-08-13 - BetterCAP is a powerful, flexible, and portable tool designed for performing various types of MITM attacks against networks along with general network recon.
+* [BetterCAP](https://github.com/bettercap/bettercap) ⭐ 20,053 | 🐛 44 | 🌐 Go | 📅 2026-08-13 - BetterCAP is a powerful, flexible, and portable tool designed for performing various types of MITM attacks against networks along with general network recon.
 * [Wifite2](https://github.com/derv82/wifite2) ⭐ 8,152 | 🐛 351 | 🌐 Python | 📅 2026-08-05 - Whatever description isn't going to do the wifite rewrite any justice. WEP, WPS, and WPA/2 attacks galore. Must have if you're doing anything with wireless access points. I don't use any other Python tooling for wireless stuff, that's probably because I don't do much with wireless stuff in the first place so let me know what I missed!
 
 ***
