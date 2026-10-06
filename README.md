@@ -30,7 +30,7 @@ If you think a project should be included here I really want to know, but keep i
 
 ##### Not Python
 
-* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 39,104 | 🐛 614 | 🌐 Ruby | 📅 2026-10-05 - Alright so this thing isn't even close to being mostly Python, but cmon it's Metasploit. This has to be in here because I love this thing so much. This makes my life easier every single day.
+* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 39,105 | 🐛 614 | 🌐 Ruby | 📅 2026-10-05 - Alright so this thing isn't even close to being mostly Python, but cmon it's Metasploit. This has to be in here because I love this thing so much. This makes my life easier every single day.
 
 ##### Adversary Simulation
 
@@ -52,13 +52,13 @@ If you think a project should be included here I really want to know, but keep i
 
 ##### Information Gathering
 
-* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 93,307 | 🐛 356 | 🌐 Python | 📅 2026-10-06 - Best broad social media hunter I've used by far. So simple a caveman could do it.
-* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 22,859 | 🐛 328 | 🌐 Python | 📅 2026-04-13 - Easily the coolest OSINT tool on the list, it would be first if I wasn't trying to keep this thing alphabetical. Its perks are too numerous to outline here, go to their page.
+* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 93,310 | 🐛 356 | 🌐 Python | 📅 2026-10-06 - Best broad social media hunter I've used by far. So simple a caveman could do it.
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 22,862 | 🐛 328 | 🌐 Python | 📅 2026-04-13 - Easily the coolest OSINT tool on the list, it would be first if I wasn't trying to keep this thing alphabetical. Its perks are too numerous to outline here, go to their page.
 * [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,862 | 🐛 7 | 🌐 Python | 📅 2026-10-04 - Jack of Most Trades OSINT tool maintained by a bunch of people. Often Updated and might as well be a household name. It's well-rounded and efficient. What more could you ask for?
-* [holehe](https://github.com/megadose/holehe) ⭐ 15,106 | 🐛 116 | 🌐 Python | 📅 2024-09-10 - Simple mail checker for popular websites. Clean and to the point, updated by [megadose](https://twitter.com/palenath) as needed. They also have a lot of other interesting projects.
+* [holehe](https://github.com/megadose/holehe) ⭐ 15,108 | 🐛 116 | 🌐 Python | 📅 2024-09-10 - Simple mail checker for popular websites. Clean and to the point, updated by [megadose](https://twitter.com/palenath) as needed. They also have a lot of other interesting projects.
 * [Osintgram](https://github.com/Datalux/Osintgram) ⭐ 14,800 | 🐛 2 | 🌐 Python | 📅 2026-09-28 - Instagram is a wealth of data for those that look, it's maintained by a lot of folks, but Instagram changes may break functionality. It's a well organized project and lots of forks to take a look at.
-* [BlackBird](https://github.com/p1ngul1n0/blackbird) ⭐ 8,972 | 🐛 16 | 🌐 Python | 📅 2025-07-13 - Another OSINT tool! I seem to have a favorite category at this point.
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,972 | 🐛 39 | 🌐 Python | 📅 2026-10-05 - The OSINT equivalent to the Metasploit Framework. Could be updated more often, but it's well respected and there's decades of content on the internet to help you get familiar with it.
+* [BlackBird](https://github.com/p1ngul1n0/blackbird) ⭐ 8,973 | 🐛 16 | 🌐 Python | 📅 2025-07-13 - Another OSINT tool! I seem to have a favorite category at this point.
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,973 | 🐛 39 | 🌐 Python | 📅 2026-10-05 - The OSINT equivalent to the Metasploit Framework. Could be updated more often, but it's well respected and there's decades of content on the internet to help you get familiar with it.
 * [IntelOwl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,738 | 🐛 78 | 🌐 Python | 📅 2026-10-06 - It's a cool malware/malspam threat intel tool. It's mostly Python, but it's pretty JS heavy. I've used it and my thoughts on it are: "Clean/Functional/Well Documented, but it smells like a corporate project."
 * [Moriarty Project](https://github.com/AzizKpln/Moriarty-Project) ⭐ 2,107 | 🐛 3 | 🌐 Python | 📅 2026-09-09 - Checks for provided phone number on popular websites, performs searches, and provides ownership information.
 * [Anubis](https://github.com/jonluca/Anubis) ⭐ 1,378 | 🐛 0 | 🌐 Python | 📅 2026-08-03 - Subdomain enumerator actively maintained by [jonluca](https://github.com/jonluca). It's a good tool and it works well. Has the added benefit of having a nice README with clear examples. Every issue (at the time of writing) has been resolved. The dude has some pretty cool projects on his blog too.
@@ -78,7 +78,7 @@ If you think a project should be included here I really want to know, but keep i
 
 ##### Penetration Testing
 
-* [SQL Map](https://github.com/sqlmapproject/sqlmap) ⭐ 38,610 | 🐛 32 | 🌐 Python | 📅 2026-10-05 - This thing is so cool! Really awesome set of contributors on this project, basically it's an automated detector/exploiter for SQL injection vulnerabilities. This thing kicks ass once you get the hang of it.
+* [SQL Map](https://github.com/sqlmapproject/sqlmap) ⭐ 38,611 | 🐛 31 | 🌐 Python | 📅 2026-10-05 - This thing is so cool! Really awesome set of contributors on this project, basically it's an automated detector/exploiter for SQL injection vulnerabilities. This thing kicks ass once you get the hang of it.
 * [CrackMapExec](https://www.kali.org/tools/crackmapexec/) - CrackMapExec (CME) is a post-exploitation tool to automate the assessment of large Active Directory networks. I think there's some drama here between [byt3bl33d3r](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived and Kali, but I don't know so I'm linking primarily to the Kali one since it's maintained and byt3's is archived.
 * [EvilTwinFramework](https://github.com/Esser50K/EvilTwinFramework) ⭐ 363 | 🐛 7 | 🌐 Python | 📅 2024-08-01 - Python tool to help penetration testers perform evil twin attacks and some other wifi related exploits.
 
@@ -96,7 +96,7 @@ If you think a project should be included here I really want to know, but keep i
 ##### Wireless Security
 
 * [BetterCAP](https://github.com/bettercap/bettercap) ⭐ 20,102 | 🐛 44 | 🌐 Go | 📅 2026-08-13 - BetterCAP is a powerful, flexible, and portable tool designed for performing various types of MITM attacks against networks along with general network recon.
-* [Wifite2](https://github.com/derv82/wifite2) ⭐ 8,160 | 🐛 352 | 🌐 Python | 📅 2026-08-05 - Whatever description isn't going to do the wifite rewrite any justice. WEP, WPS, and WPA/2 attacks galore. Must have if you're doing anything with wireless access points. I don't use any other Python tooling for wireless stuff, that's probably because I don't do much with wireless stuff in the first place so let me know what I missed!
+* [Wifite2](https://github.com/derv82/wifite2) ⭐ 8,162 | 🐛 352 | 🌐 Python | 📅 2026-08-05 - Whatever description isn't going to do the wifite rewrite any justice. WEP, WPS, and WPA/2 attacks galore. Must have if you're doing anything with wireless access points. I don't use any other Python tooling for wireless stuff, that's probably because I don't do much with wireless stuff in the first place so let me know what I missed!
 
 ***
 

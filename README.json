@@ -21,7 +21,7 @@
                 "open_issues": 614,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39104,
+                "stars": 39105,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -374,7 +374,7 @@
                 "open_issues": 356,
                 "owner": "sherlock-project",
                 "repo": "sherlock",
-                "stars": 93307,
+                "stars": 93310,
                 "topics": [
                   "cli",
                   "cti",
@@ -412,7 +412,7 @@
                 "open_issues": 328,
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 22859,
+                "stars": 22862,
                 "topics": [
                   "attacksurface",
                   "cti",
@@ -485,7 +485,7 @@
                 "open_issues": 116,
                 "owner": "megadose",
                 "repo": "holehe",
-                "stars": 15106,
+                "stars": 15108,
                 "topics": [
                   "ebay",
                   "email",
@@ -557,7 +557,7 @@
                 "open_issues": 16,
                 "owner": "antoniaci",
                 "repo": "blackbird",
-                "stars": 8972,
+                "stars": 8973,
                 "topics": [
                   "cybersecurity",
                   "osint",
@@ -583,7 +583,7 @@
                 "open_issues": 39,
                 "owner": "lanmaster53",
                 "repo": "recon-ng",
-                "stars": 5972,
+                "stars": 5973,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
@@ -922,10 +922,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T21:54:40Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38610,
+                "stars": 38611,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -1236,7 +1236,7 @@
                 "open_issues": 352,
                 "owner": "derv82",
                 "repo": "wifite2",
-                "stars": 8160,
+                "stars": 8162,
                 "topics": [
                   "wifi-cracker",
                   "wifi-password",
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:53:48.857Z",
+    "last_updated": "2026-10-06T10:23:23.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "Solid Python toolkit for those in the security industry. Some by me, most by smarter people.",
