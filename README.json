@@ -17,11 +17,11 @@
                 "id": 2293158,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T01:02:20Z",
-                "open_issues": 629,
+                "last_commit": "2026-11-03T03:15:17Z",
+                "open_issues": 624,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39291,
+                "stars": 39299,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -51,7 +51,7 @@
                 "open_issues": 82,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7485,
+                "stars": 7488,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -107,7 +107,7 @@
                 "open_issues": 81,
                 "owner": "mandiant",
                 "repo": "flare-fakenet-ng",
-                "stars": 2221,
+                "stars": 2224,
                 "topics": [
                   "fakenet-ng",
                   "gsoc-2026",
@@ -167,8 +167,8 @@
                 "id": 281495346,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T15:05:36Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-02T21:13:17Z",
+                "open_issues": 10,
                 "owner": "splunk",
                 "repo": "attack_data",
                 "stars": 839,
@@ -227,11 +227,11 @@
                 "id": 215366713,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T09:11:58Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-02T17:16:59Z",
+                "open_issues": 96,
                 "owner": "kevoreilly",
                 "repo": "CAPEv2",
-                "stars": 3645,
+                "stars": 3646,
                 "topics": [
                   "cape",
                   "configs",
@@ -370,11 +370,11 @@
                 "id": 162998479,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-02T05:14:33Z",
+                "last_commit": "2026-11-03T05:14:04Z",
                 "open_issues": 356,
                 "owner": "sherlock-project",
                 "repo": "sherlock",
-                "stars": 95401,
+                "stars": 95462,
                 "topics": [
                   "cli",
                   "cti",
@@ -409,10 +409,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-13T19:43:06Z",
-                "open_issues": 387,
+                "open_issues": 393,
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 24236,
+                "stars": 24274,
                 "topics": [
                   "attacksurface",
                   "cti",
@@ -450,10 +450,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-30T14:32:01Z",
-                "open_issues": 9,
+                "open_issues": 14,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 18211,
+                "stars": 18217,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -485,7 +485,7 @@
                 "open_issues": 121,
                 "owner": "megadose",
                 "repo": "holehe",
-                "stars": 15495,
+                "stars": 15507,
                 "topics": [
                   "ebay",
                   "email",
@@ -522,7 +522,7 @@
                 "open_issues": 6,
                 "owner": "Datalux",
                 "repo": "Osintgram",
-                "stars": 15365,
+                "stars": 15381,
                 "topics": [
                   "analysis",
                   "hacking",
@@ -557,7 +557,7 @@
                 "open_issues": 18,
                 "owner": "antoniaci",
                 "repo": "blackbird",
-                "stars": 9524,
+                "stars": 9533,
                 "topics": [
                   "cybersecurity",
                   "osint",
@@ -583,7 +583,7 @@
                 "open_issues": 39,
                 "owner": "lanmaster53",
                 "repo": "recon-ng",
-                "stars": 6024,
+                "stars": 6033,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
@@ -600,11 +600,11 @@
                 "id": 231109256,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-31T15:11:46Z",
-                "open_issues": 91,
+                "last_commit": "2026-11-03T07:05:01Z",
+                "open_issues": 96,
                 "owner": "intelowlproject",
                 "repo": "IntelOwl",
-                "stars": 4781,
+                "stars": 4789,
                 "topics": [
                   "cyber-security",
                   "cyber-threat-intelligence",
@@ -646,7 +646,7 @@
                 "open_issues": 4,
                 "owner": "AzizKpln",
                 "repo": "Gokboru_Intel",
-                "stars": 2131,
+                "stars": 2133,
                 "topics": [
                   "advanced",
                   "advanced-osint-tool",
@@ -688,7 +688,7 @@
                 "open_issues": 0,
                 "owner": "jonluca",
                 "repo": "anubis",
-                "stars": 1384,
+                "stars": 1383,
                 "topics": [
                   "anubis",
                   "anubis-db",
@@ -722,7 +722,7 @@
                 "open_issues": 19,
                 "owner": "laramies",
                 "repo": "metagoofil",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
@@ -785,11 +785,11 @@
                 "id": 890377,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T23:23:11Z",
-                "open_issues": 327,
+                "last_commit": "2026-11-03T00:27:53Z",
+                "open_issues": 326,
                 "owner": "networkx",
                 "repo": "networkx",
-                "stars": 17381,
+                "stars": 17384,
                 "topics": [
                   "complex-networks",
                   "graph-algorithms",
@@ -814,11 +814,11 @@
                 "id": 33997353,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T16:20:30Z",
-                "open_issues": 325,
+                "last_commit": "2026-11-02T20:45:39Z",
+                "open_issues": 327,
                 "owner": "fortra",
                 "repo": "impacket",
-                "stars": 16215,
+                "stars": 16220,
                 "topics": [
                   "dcerpc",
                   "dcom",
@@ -846,11 +846,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-01T18:01:32Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-03T02:15:22Z",
+                "open_issues": 152,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12668,
+                "stars": 12670,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -894,7 +894,7 @@
                 "open_issues": 38,
                 "owner": "lanjelot",
                 "repo": "patator",
-                "stars": 3940,
+                "stars": 3941,
                 "topics": [
                   "brute-force",
                   "pentest"
@@ -921,11 +921,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T16:31:42Z",
+                "last_commit": "2026-11-02T10:13:45Z",
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38829,
+                "stars": 38832,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -1025,7 +1025,7 @@
                 "open_issues": 25,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15425,
+                "stars": 15424,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:43.746Z"
@@ -1075,11 +1075,11 @@
                 "id": 131129792,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T00:31:12Z",
-                "open_issues": 264,
+                "last_commit": "2026-11-02T10:34:20Z",
+                "open_issues": 265,
                 "owner": "PyCQA",
                 "repo": "bandit",
-                "stars": 8367,
+                "stars": 8369,
                 "topics": [
                   "bandit",
                   "linter",
@@ -1150,7 +1150,7 @@
                 "open_issues": 14,
                 "owner": "evyatarmeged",
                 "repo": "Raccoon",
-                "stars": 4064,
+                "stars": 4066,
                 "topics": [
                   "enumeration",
                   "fuzzing",
@@ -1194,7 +1194,7 @@
                 "open_issues": 50,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20225,
+                "stars": 20229,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -1236,7 +1236,7 @@
                 "open_issues": 354,
                 "owner": "derv82",
                 "repo": "wifite2",
-                "stars": 8235,
+                "stars": 8238,
                 "topics": [
                   "wifi-cracker",
                   "wifi-password",
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:21:06.028Z",
+    "last_updated": "2026-11-03T09:26:59.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "Solid Python toolkit for those in the security industry. Some by me, most by smarter people.",
